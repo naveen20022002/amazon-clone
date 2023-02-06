@@ -1,0 +1,18 @@
+.checkoutproduct-img{
+    max-width: 200px;
+
+}
+.remove-button{
+    background: #d4ae32;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}
+.chproduct-rating{
+    display: flex;
+}
+.chproduct-title{
+    max-width: 250px;
+    border-top: 1px solid rgb(95, 85, 85);
+}
